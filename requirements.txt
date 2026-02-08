@@ -2,3 +2,4 @@ folium
 scikit-learn
 numpy
 geopy
+pytest-cov
