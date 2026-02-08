@@ -20,5 +20,5 @@ class Studente:
     @property
     def localita_display(self) -> str:
         """Ritorna nome località formattato per visualizzazione"""
-        # Sarà implementato tramite ConfigRepository
+        # TODO: da implementare tramite ConfigRepository
         pass
