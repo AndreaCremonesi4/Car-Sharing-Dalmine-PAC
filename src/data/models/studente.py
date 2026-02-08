@@ -16,9 +16,3 @@ class Studente:
         self.email = self.email.lower()
         self.localita = self.localita.upper()
         self.corso = self.corso.upper()
-
-    @property
-    def localita_display(self) -> str:
-        """Ritorna nome località formattato per visualizzazione"""
-        # TODO: da implementare tramite ConfigRepository
-        pass
