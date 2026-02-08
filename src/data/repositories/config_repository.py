@@ -21,7 +21,7 @@ class ConfigRepository:
             file_path = self.config_dir / "localita.json"
             with open(file_path, "r", encoding="utf-8") as f:
                 data = json.load(f)
-                self._localita_map = data["localita"]
+                self._localita_map = data
         return self._localita_map
 
     @property
@@ -31,7 +31,7 @@ class ConfigRepository:
             file_path = self.config_dir / "quartieri.json"
             with open(file_path, "r", encoding="utf-8") as f:
                 data = json.load(f)
-                self._quartieri_set = set(data["quartieri_bergamo"])
+                self._quartieri_set = set(data)
         return self._quartieri_set
 
     def get_localita_display_name(self, key: str) -> Optional[str]:

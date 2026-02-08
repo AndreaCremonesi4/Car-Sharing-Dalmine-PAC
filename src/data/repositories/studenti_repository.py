@@ -24,13 +24,13 @@ class StudentiRepository:
             data = json.load(f)
 
         studenti = []
-        for i, s_dict in enumerate(data["studenti"], 1):
+        for i, studente in enumerate(data, 1):
             try:
                 # Validazione implicita tramite dataclass
                 studente = Studente(
-                    email=s_dict["email"],
-                    localita=s_dict["localita"],
-                    corso=s_dict["corso"],
+                    email=studente["email"],
+                    localita=studente["localita"],
+                    corso=studente["corso"],
                 )
 
                 # Validazione località esistente

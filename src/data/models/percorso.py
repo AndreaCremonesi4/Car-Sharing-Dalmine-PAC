@@ -29,10 +29,11 @@ class Percorso:
         key formato: "PARTENZA-DESTINAZIONE"
         """
         partenza, destinazione = key.split("-")
+
         return cls(
             partenza=partenza,
             destinazione=destinazione,
-            durata_sec=data["durata_sec"],
-            distanza_m=data["distanza_m"],
-            geometria=[(lon, lat) for lon, lat in data["geometria"]],
+            durata_sec=data.get("durata_sec"),
+            distanza_m=data.get("distanza_m"),
+            geometria=[(lon, lat) for lon, lat in data.get("geometria", [])],
         )
