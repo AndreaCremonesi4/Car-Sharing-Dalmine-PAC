@@ -1,0 +1,742 @@
+[
+  {
+    "email": "l.cima@studenti.unibg.it",
+    "citta": "CAPRIATE",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER L'ELETTRONICA E L'AUTOMAZIONE"
+  },
+  {
+    "email": "b.lovisetto@studenti.unibg.it",
+    "citta": "TORREDEBUSI",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "ctt.davide@gmail.com",
+    "citta": "NOVAMILANESE",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "matteo.marchesi0606@gmail.com",
+    "citta": "SERIATE",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "giovannimonta06@gmail.com",
+    "citta": "COSTADIMEZZATE",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "bene.colo05@gmail.com",
+    "citta": "LECCO",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER LA SALUTE"
+  },
+  {
+    "email": "samuel.frigeni@gmail.com",
+    "citta": "LALLIO",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "sara.turatello@outlook.com",
+    "citta": "ARCORE",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER L'EDILIZIA"
+  },
+  {
+    "email": "andrea.cagnazzo.04@gmail.com",
+    "citta": "GESSATE",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER L'EDILIZIA"
+  },
+  {
+    "email": "gabrielbilleci679@gmail.com",
+    "citta": "NEMBRO",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER L'ELETTRONICA E L'AUTOMAZIONE"
+  },
+  {
+    "email": "e.rotolo@studenti.unibg.it",
+    "citta": "TERNODISOLA",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "a.facheris10@dtudenti.unibg.it",
+    "citta": "BONATESOPRA",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "c.migliorati2@studenti.unibg.it",
+    "citta": "DESIO",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER LA SALUTE"
+  },
+  {
+    "email": "nivineniv123@icloud.com",
+    "citta": "LODI",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "monacimichele006@gmail.com",
+    "citta": "ZOGNO",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "morri.belotti@gmail.com",
+    "citta": "LALLIO",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "e.crepaldi@studenti.unibg.it",
+    "citta": "BRUSAPORTO",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "gabriele.hincu07@gmail.com",
+    "citta": "BRUSAPORTO",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "cristianpesentip06@gmail.com",
+    "citta": "ZOGNO",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "j.razalan@studenti.unibg.it",
+    "citta": "MERATE",
+    "corso": "INGEGNERIA INFORMATICA"
+  },
+  {
+    "email": "m.brembilla17@studenti.unibg.it",
+    "citta": "BONATESOTTO",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "vandrea2816@gmail.com",
+    "citta": "BERBENNO",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER L'EDILIZIA"
+  },
+  {
+    "email": "s.brivio7@studenti.unibg.it",
+    "citta": "MERATE",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "s.ranucci@studenti.unibg.it",
+    "citta": "NOVAMILANESE",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER LA SALUTE"
+  },
+  {
+    "email": "l.caso3@studenti.unibg.it",
+    "citta": "MUGGIO",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "g.rencurosi@studneti.unibg.it",
+    "citta": "MELZO",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "letysacchelli@gmail.com",
+    "citta": "LECCO",
+    "corso": "INGEGNERIA INFORMATICA"
+  },
+  {
+    "email": "sara.regragui_@hotmail.com",
+    "citta": "INZAGO",
+    "corso": "INGEGNERIA INFORMATICA"
+  },
+  {
+    "email": "davidebellini08@gmail.com",
+    "citta": "TRESCOREBALNEARIO",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "loreplebani@gmail.com",
+    "citta": "GORLAGO",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "montiscidaniela20@gmail.com",
+    "citta": "CARAVAGGIO",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "gaiapezzotta06@gmail.com",
+    "citta": "CAVERNAGO",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER LA SALUTE"
+  },
+  {
+    "email": "flavio.lonni@gmail.com",
+    "citta": "GORLAGO",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "gabripale2006@gmail.com",
+    "citta": "VILLADALME",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER L'ELETTRONICA E L'AUTOMAZIONE"
+  },
+  {
+    "email": "buzziolsimone@gmail.com",
+    "citta": "MEDA",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "federicoframbrosi@gmail.com",
+    "citta": "CURNO",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "gretamed06@gmail.com",
+    "citta": "MOZZO",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "maria.rovaris06@gmail.com",
+    "citta": "LALLIO",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "dariablesio@libero.it",
+    "citta": "SEREGNO",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER L'EDILIZIA"
+  },
+  {
+    "email": "haidaramalak4@gmail.com",
+    "citta": "CISANOBERGAMASCO",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER L'EDILIZIA"
+  },
+  {
+    "email": "j.mazzucco@studenti.unibg.it",
+    "citta": "CENE",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER LA SOSTENIBILIT\u00c0 ENERGETICA E AMBIENTALE"
+  },
+  {
+    "email": "valeriaxtempo@gmail.com",
+    "citta": "VAPRIODADDA",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "yonatan.zilkha@gmail.com",
+    "citta": "MILANO",
+    "corso": "INGEGNERIA INFORMATICA"
+  },
+  {
+    "email": "ayabelmaa@gmail.com",
+    "citta": "VERDELLINO",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "alessandro.amboni06@gmail.com",
+    "citta": "STEZZANO",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER LA SOSTENIBILIT\u00c0 ENERGETICA E AMBIENTALE"
+  },
+  {
+    "email": "i.gaverina@studenti.unibg.it",
+    "citta": "TREVIOLO",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "avanzichristian@gmail.com",
+    "citta": "OSIOSOTTO",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "elisabaldaccini06@gmail.com",
+    "citta": "VILLADISERIO",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER LA SALUTE"
+  },
+  {
+    "email": "souhailmalih06@gmail.com",
+    "citta": "MILANO",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "pesentimirko22@gmail.com",
+    "citta": "BERBENNO",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "oumaima.kanniche@gmail.com",
+    "citta": "BONATESOPRA",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "franchinoandrea06@gmail.com",
+    "citta": "CURNO",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER LA SALUTE"
+  },
+  {
+    "email": "d.elrefaei@studenti.unibg.it",
+    "citta": "VERDELLINO",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER LA SOSTENIBILIT\u00c0 ENERGETICA E AMBIENTALE"
+  },
+  {
+    "email": "davide.cologni.06@gmail.com",
+    "citta": "OSIOSOTTO",
+    "corso": "INGEGNERIA INFORMATICA"
+  },
+  {
+    "email": "a.colombo109@studenti.unibg.it",
+    "citta": "ELLO",
+    "corso": "INGEGNERIA INFORMATICA"
+  },
+  {
+    "email": "lorynaoni27@gmail.com",
+    "citta": "COMUNNUOVO",
+    "corso": "INGEGNERIA INFORMATICA"
+  },
+  {
+    "email": "m.delbarba2@studenti.unibg.it",
+    "citta": "CAROBBIODEGLIANGELI",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER LA SALUTE"
+  },
+  {
+    "email": "parsaniemma@gmail.com",
+    "citta": "VALTESSE",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER LA SALUTE"
+  },
+  {
+    "email": "sabrinemdidach@gmail.com",
+    "citta": "CARVICO",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER L'EDILIZIA"
+  },
+  {
+    "email": "robertobrugali06@gmail.com",
+    "citta": "MOZZO",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "fabriziobala06@gmail.com",
+    "citta": "ALBANOSANTALESSANDRO",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "sabrinemdidach@gmail.com",
+    "citta": "CARVICO",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER L'EDILIZIA"
+  },
+  {
+    "email": "leo.leidi496@gmail.com",
+    "citta": "SERIATE",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "mattia.zambettispeed@gmail.com",
+    "citta": "SERIATE",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER LA SOSTENIBILIT\u00c0 ENERGETICA E AMBIENTALE"
+  },
+  {
+    "email": "ibrahimangela93@gmail.com",
+    "citta": "CARATEBRIANZA",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "d.gerosa@studenti.unibg.it",
+    "citta": "INZAGO",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "l.rizzi10@studenti.unibg.it",
+    "citta": "ALBINO",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "j.aloui@studenti.unibg.it",
+    "citta": "PONTESANPIETRO",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "andreabrevi06@gmail.com",
+    "citta": "BAGNATICA",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "davidemanzocchi2006@gmail.com",
+    "citta": "GARLATE",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "m.maffeis21@studenti.unibg.it",
+    "citta": "CENE",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER LA SOSTENIBILIT\u00c0 ENERGETICA E AMBIENTALE"
+  },
+  {
+    "email": "l.fulgosi@studenti.unibg.it",
+    "citta": "SERIATE",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "mat.caldogno@gmail.com",
+    "citta": "ARCORE",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "a.alabi@studenti.unibg.it",
+    "citta": "RANICA",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER L'EDILIZIA"
+  },
+  {
+    "email": "l.basile1@studenti.unibg.it",
+    "citta": "ARCORE",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "natymoncada06@gmail.com",
+    "citta": "CAMBIAGO",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "a.desideri@studenti.unibg.it",
+    "citta": "PEDRENGO",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER LA SALUTE"
+  },
+  {
+    "email": "ambrapoldo@gmail.com",
+    "citta": "ALMENNOSANSALVATORE",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER L'ELETTRONICA E L'AUTOMAZIONE"
+  },
+  {
+    "email": "ahmedalhelw222@gmail.com",
+    "citta": "BORGHETTO LODIGIANO",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "quistinifrancesco@gmail.com",
+    "citta": "FIORANO AL SERIO",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER LA SALUTE"
+  },
+  {
+    "email": "d.vornicu@studenti.unibg.it",
+    "citta": "CASTELLICALEPIO",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER L'ELETTRONICA E L'AUTOMAZIONE"
+  },
+  {
+    "email": "Fuselliandrea29@gmail.com",
+    "citta": "ALMENNOSANSALVATORE",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER L'ELETTRONICA E L'AUTOMAZIONE"
+  },
+  {
+    "email": "tommymaftei@gmail.com",
+    "citta": "CINISELLOBALSAMO",
+    "corso": "INGEGNERIA INFORMATICA"
+  },
+  {
+    "email": "t.maftei@studenti.unibg.it",
+    "citta": "CINISELLOBALSAMO",
+    "corso": "INGEGNERIA INFORMATICA"
+  },
+  {
+    "email": "s.salomoni2@studenti.unibg.it",
+    "citta": "VILLONGO",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER L'ELETTRONICA E L'AUTOMAZIONE"
+  },
+  {
+    "email": "n.sall@studenti.unibg.it",
+    "citta": "PONTESANPIETRO",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "ahmedalhelw222@gmail.com",
+    "citta": "LODI",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "haithamelhelw125@gmail.com",
+    "citta": "CODOGNO",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "reanton04@gmail.com",
+    "citta": "CURNO",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "abdelazizomar13@gmail.com",
+    "citta": "MILANO",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "c.scarpa@studenti.unibg.it",
+    "citta": "ROGENO",
+    "corso": "MANAGEMENT ENGINEERING"
+  },
+  {
+    "email": "s.obada@studenti.unibg.it",
+    "citta": "BREMBATE",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER L'EDILIZIA"
+  },
+  {
+    "email": "p.ayag@studenti.unibg.it",
+    "citta": "MILANO",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "b.lovisetto@studenti.unibg.it",
+    "citta": "TORREDEBUSI",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "margot2005.mt@gmail.com",
+    "citta": "DESIO",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "caldie.marco@gmail.com",
+    "citta": "PEDRENGO",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER L'ELETTRONICA E L'AUTOMAZIONE"
+  },
+  {
+    "email": "matteodellanno8@gmail.com",
+    "citta": "VILLADADDA",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER L'EDILIZIA"
+  },
+  {
+    "email": "l.tampellini@studenti.unibg.it",
+    "citta": "COLOGNOMONZESE",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "lauraservalli04@gmail.com",
+    "citta": "LEFFE",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "mat.caldogno@gmail.com",
+    "citta": "ARCORE",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "i.kotb@studenti.unibg.it",
+    "citta": "MONZA",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "g.paleari@studenti.ubibg.it",
+    "citta": "SEREGNO",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER L'EDILIZIA"
+  },
+  {
+    "email": "a.ba1@studenti.unibg.it",
+    "citta": "CALOLZIOCORTE",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "c.lorini2@studenti.unibg.it",
+    "citta": "CALCINATE",
+    "corso": "MANAGEMENT ENGINEERING"
+  },
+  {
+    "email": "a.tintori3@studenti.unibg.it",
+    "citta": "OSIOSOPRA",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER L'EDILIZIA"
+  },
+  {
+    "email": "rossanaperico22@gmail.com",
+    "citta": "BORGOPALAZZO",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "t.angelini@studentui.unibg.it",
+    "citta": "LONGUELO",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "s.castanedahinojo@studenti.unibg.it",
+    "citta": "MASATE",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER L'EDILIZIA"
+  },
+  {
+    "email": "r.palmieri1@studenti.unibg.it",
+    "citta": "LESMO",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER LA SOSTENIBILIT\u00c0 ENERGETICA E AMBIENTALE"
+  },
+  {
+    "email": "l.barcella10@studenti.unibg.it",
+    "citta": "PEDRENGO",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "h.gelforte@studenti.unibg.it",
+    "citta": "TREZZANOROSA",
+    "corso": "INGEGNERIA INFORMATICA"
+  },
+  {
+    "email": "gaiapezzotta06@gmail.com",
+    "citta": "CAVERNAGO",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER LA SALUTE"
+  },
+  {
+    "email": "aidararachid21@gmail.com",
+    "citta": "MONZA",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "n.abdelsalam@studenti.unibg.it",
+    "citta": "GARDONEVALTROMPIA",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER LA SALUTE"
+  },
+  {
+    "email": "e.cretu@studenti.unibg.it",
+    "citta": "BORGOPALAZZO",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER LA SOSTENIBILIT\u00c0 ENERGETICA E AMBIENTALE"
+  },
+  {
+    "email": "gioia.medhat26@gmail.com",
+    "citta": "MILANO",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "romafranci13@gmail.it",
+    "citta": "SANTOMASO",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "agostinisanna@gmail.com",
+    "citta": "ALZANOLOMBARDO",
+    "corso": "MANAGEMENT ENGINEERING"
+  },
+  {
+    "email": "haibomarza@gmail.com",
+    "citta": "TREVIGLIO",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "t.maftei@studenti.unibg.it",
+    "citta": "CINISELLOBALSAMO",
+    "corso": "INGEGNERIA INFORMATICA"
+  },
+  {
+    "email": "p.lamera1@studenti.unibg.it",
+    "citta": "PONTERANICA",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "lorenzopasini06@gmail.com",
+    "citta": "ALBINO",
+    "corso": "INGEGNERIA INFORMATICA"
+  },
+  {
+    "email": "ggabryflavio@gmail.com",
+    "citta": "BONATESOTTO",
+    "corso": "INGEGNERIA INFORMATICA"
+  },
+  {
+    "email": "riccardocrifo@gmail.com",
+    "citta": "BOVISIOMASCIAGO",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "a.chemsi@studenti.unibg.it",
+    "citta": "MILANO",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "a.papetti4@studenti.unibg.it",
+    "citta": "TORLINOVIMERCATI",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "ismaelcomp04@gmail.com",
+    "citta": "CURNO",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "c.cadimaterceros@studenti.unibg.it",
+    "citta": "TREVIOLO",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "a.hassan14@studente.unibg.it",
+    "citta": "BONATESOTTO",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "s.cornolti1@studenti.unibg.it",
+    "citta": "PONTERANICA",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER LA SALUTE"
+  },
+  {
+    "email": "razercome@gmail.com",
+    "citta": "POZZUOLOMARTESANA",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "n.manzinali@studenti.unibg.it",
+    "citta": "SANPELLEGRINOTERME",
+    "corso": "INGEGNERIA INFORMATICA"
+  },
+  {
+    "email": "a.ferrari81@studenti.unibg.it",
+    "citta": "CASTIONEDELLAPRESOLANA",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "donatifederico001@gmail.com",
+    "citta": "PONTERANICA",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER LA SOSTENIBILIT\u00c0 ENERGETICA E AMBIENTALE"
+  },
+  {
+    "email": "gabriele.hincu07@gmail.com",
+    "citta": "BRUSAPORTO",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "s.brivio7@studenti.unibg.it",
+    "citta": "MERATE",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "f.moukhliss@studenti.unibg.it",
+    "citta": "MEDOLAGO",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "m.alborghetti15@studenti.unibg.it",
+    "citta": "VERDELLINO",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "johalmanbir12@gmail.com",
+    "citta": "TELGATE",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "m.campusanosanchez@studenti.unibg.it",
+    "citta": "MONZA",
+    "corso": "INGEGNERIA INFORMATICA"
+  },
+  {
+    "email": "mlissoni06@gmail.com",
+    "citta": "SETTALA",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER L'ELETTRONICA E L'AUTOMAZIONE"
+  },
+  {
+    "email": "y.bouirigue@studenti.unibg.it",
+    "citta": "VILLADISERIO",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "f.denti4@studenti.unibg.it",
+    "citta": "CINISELLOBALSAMO",
+    "corso": "INGEGNERIA MECCANICA"
+  },
+  {
+    "email": "icmq.anna.natale@gmail.com",
+    "citta": "MONZA",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "h.banse@studenti.unibg.it",
+    "citta": "PONTESANPIETRO",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "v.radici3@unibg.studenti.unibg",
+    "citta": "BERGAMO",
+    "corso": "INGEGNERIA DELLE TECNOLOGIE PER L'ELETTRONICA E L'AUTOMAZIONE"
+  },
+  {
+    "email": "i.staibi@studenti.unibg.it",
+    "citta": "GHISALBA",
+    "corso": "INGEGNERIA GESTIONALE"
+  },
+  {
+    "email": "nivineniv123@icloud.com",
+    "citta": "LODI",
+    "corso": "INGEGNERIA MECCANICA"
+  }
+]
