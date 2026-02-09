@@ -1,0 +1,9 @@
+[MASTER]
+max-line-length = 100
+disable = C0111  ; Missing docstring (gestita da altri strumenti / manualmente)
+
+[DESIGN]
+max-args = 7
+max-locals = 15
+max-branches = 12
+max-statements = 50
