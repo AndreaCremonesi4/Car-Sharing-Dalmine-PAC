@@ -3,3 +3,4 @@ scikit-learn
 numpy
 geopy
 pytest-cov
+python-dotenv
