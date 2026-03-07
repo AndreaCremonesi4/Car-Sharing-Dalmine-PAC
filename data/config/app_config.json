@@ -1,0 +1,15 @@
+{
+  "nominatim_user_agent": "carpooling-dalmine-unibg-v1",
+
+  "capacita_macchina": 4,
+  "bonus_corso_laurea": 180,
+  "max_deviazione_sec": 900,
+  "numero_cluster": 7,
+  "comune_destinazione": "DALMINE",
+
+  "batch_size_chiamate": 100,
+  "jitter_factor": 0.0003,
+
+  "log_level": "INFO",
+  "environment": "development"
+}
