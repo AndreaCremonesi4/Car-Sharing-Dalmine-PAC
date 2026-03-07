@@ -19,7 +19,7 @@ class ValidationResult:
 class DataValidator:
     """
     Validatore per integrità cache e coerenza dati.
-    Centralizza i controlli sparsi in modalita_ottimizza [file:1].
+    Centralizza i controlli sparsi in modalita_ottimizza.
     """
 
     def __init__(self, comune_destinazione: str = "DALMINE"):  # <- AGGIUNTO
