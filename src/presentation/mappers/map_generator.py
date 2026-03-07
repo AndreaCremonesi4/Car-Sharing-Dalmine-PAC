@@ -8,7 +8,7 @@ from src.data.repositories.cache_repository import CacheRepository
 
 class MapGenerator:
     """
-    Genera mappa HTML interattive con Folium.
+    Genera mappe HTML interattive con Folium.
     """
 
     def __init__(self, jitter_factor: float = 0.0003):
