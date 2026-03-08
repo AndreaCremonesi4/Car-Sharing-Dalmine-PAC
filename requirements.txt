@@ -4,3 +4,5 @@ numpy
 geopy
 pytest-cov
 python-dotenv
+radon
+pylint
