@@ -4,7 +4,7 @@ from pathlib import Path
 
 # Per testare main.py vogliamo simulare l'esecuzione
 # "python src/main.py", dove la directory src è in sys.path
-PROJECT_ROOT = Path(__file__).resolve().parents[1]
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
 SRC_DIR = PROJECT_ROOT / "src"
 if str(SRC_DIR) not in sys.path:
     sys.path.insert(0, str(SRC_DIR))
@@ -82,7 +82,9 @@ def test_initialize_layer2_services_cablatura_correlata(monkeypatch):
     dummy_config_repo = object()
     dummy_cache_repo = object()
 
-    facade = main_mod.initialize_layer2_services(app_cfg, dummy_config_repo, dummy_cache_repo)
+    facade = main_mod.initialize_layer2_services(
+        app_cfg, dummy_config_repo, dummy_cache_repo
+    )
 
     assert isinstance(facade, DummyExternalAPIFacade)
     assert isinstance(facade.geocoding, DummyGeocodingService)
@@ -99,7 +101,9 @@ class DummyClustering:
 
 
 class DummyOptimizer:
-    def __init__(self, capacita_auto, bonus_corso_laurea, max_deviazione_sec, comune_destinazione):
+    def __init__(
+        self, capacita_auto, bonus_corso_laurea, max_deviazione_sec, comune_destinazione
+    ):
         self.capacita_auto = capacita_auto
         self.bonus_corso_laurea = bonus_corso_laurea
         self.max_deviazione_sec = max_deviazione_sec
@@ -201,8 +205,8 @@ def test_initialize_layer4_presentation_cablatura_correlata(monkeypatch):
     app_cfg = SimpleAppConfig()
     dummy_config_repo = object()
 
-    cli_parser, map_generator, console_formatter = main_mod.initialize_layer4_presentation(
-        app_cfg, dummy_config_repo
+    cli_parser, map_generator, console_formatter = (
+        main_mod.initialize_layer4_presentation(app_cfg, dummy_config_repo)
     )
 
     assert isinstance(cli_parser, DummyCLIParser)
@@ -329,4 +333,3 @@ def test_main_errore_configurazione_fa_exit_1(monkeypatch):
         main_mod.main()
 
     assert excinfo.value.code == 1
-
