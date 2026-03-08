@@ -243,10 +243,10 @@ def main():
     print("""
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
-║   🚗  CARSHARING DALMINE - Sistema di Ottimizzazione  🚗  ║
+║   CARSHARING DALMINE - Sistema di Ottimizzazione          ║
 ║                                                           ║
-║   Università degli Studi di Bergamo                      ║
-║   Polo di Dalmine                                        ║
+║   Università degli Studi di Bergamo                       ║
+║   Polo di Dalmine                                         ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
     """)

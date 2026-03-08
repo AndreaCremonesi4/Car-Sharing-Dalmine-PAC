@@ -1,5 +1,5 @@
 {
-  "nominatim_user_agent": "carpooling-dalmine-unibg-v1",
+  "nominatim_user_agent": "carsharing-dalmine-unibg-v1",
 
   "capacita_macchina": 4,
   "bonus_corso_laurea": 180,
